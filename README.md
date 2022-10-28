@@ -1,2 +1,2 @@
-# proyecto_geoinf
-Proyecto final de la materia de geoinformática
+# Misoginia
+Visor web de violencia misógina
